@@ -1,5 +1,5 @@
 # PixelLightCookieGenerator
-PLCG is a quick and customizable way to generate pixel light cookies for your 2D games.
+PLCG is a quick and customizable way to generate pixel style light cookie textures for your 2D games.
 
 I couldn't find anything that could generate pixel light cookies easily, so I decided to write one for fun (crazy right?).
 
