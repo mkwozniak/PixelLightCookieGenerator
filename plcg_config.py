@@ -33,4 +33,4 @@ UI_FONT = "MS Gothic"
 CLR_BG = "#373737"
 
 TXT_GREETING = f"PIXEL LIGHT COOKIE GENERATOR {VERSION}"
-TXT_GITHUB = "github.com/PixelLightCookieGenerator"
+TXT_GITHUB = "github.com/mkwozniak/PixelLightCookieGenerator"
